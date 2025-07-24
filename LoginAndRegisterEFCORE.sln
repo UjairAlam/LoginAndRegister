@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAndRegisterEFCORE", "LoginAndRegisterEFCORE.csproj", "{1A2807F0-C965-427E-B1D6-1A4AB053F744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2807F0-C965-427E-B1D6-1A4AB053F744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2807F0-C965-427E-B1D6-1A4AB053F744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2807F0-C965-427E-B1D6-1A4AB053F744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2807F0-C965-427E-B1D6-1A4AB053F744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6A810C-7911-45A7-B470-B6FAF09ED47D}
+	EndGlobalSection
+EndGlobal
